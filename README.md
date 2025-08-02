@@ -53,7 +53,7 @@ aura-energy-advisor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/aura-energy-advisor.git
+git clone https://github.com/Keerthi-Swetha/aura-energy-advisor.git
 cd aura-energy-advisor
 
 ### 2. Install dependencies
