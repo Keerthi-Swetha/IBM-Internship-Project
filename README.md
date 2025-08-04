@@ -1,12 +1,12 @@
-# 🔋 AURA — Smart Home Energy Advisor (Software‑Only)
+# 🔋 AURA — Smart Home Energy Advisor 
 
-AURA (Automated Utility Resource Advisor) is an intelligent energy assistant that helps users monitor, analyze, and optimize electricity consumption. Built purely on software using IBM Cloud tools, AURA uses simulated usage data and machine learning to deliver real-time insights and personalized energy-saving tips—without any physical hardware.
+AURA (Automated Utility Resource Advisor) is an intelligent energy assistant that helps users monitor, analyze, and optimize electricity consumption. Built purely on software using IBM Cloud tools, AURA uses simulated usage data and machine learning to deliver real-time insights and personalized energy-saving tips without any physical hardware.
 
 ---
 
 ## 📌 Project Description
 
-AURA acts like a virtual energy manager. It analyzes usage patterns, estimates bills, and suggests when and how to use appliances to save power and money. Users can interact with it using plain-language queries such as:
+AURA acts like a virtual energy manager. It analyzes usage patterns, estimates bills, and suggests when and how to use appliances to save power and money. Users can interact with it using plain language queries such as:
 
 - “Why is my electricity bill high?”
 - “When should I run the washing machine?”
@@ -19,7 +19,7 @@ Everything runs in the cloud with mock or imported data, making it easy to proto
 ## 🚀 Features
 
 - **Usage Analysis**: View simulated or uploaded data to track daily, weekly, and monthly energy consumption.  
-- **AI-Driven Tips**: Recommendations based on patterns—like running heavy loads during off-peak hours.  
+- **AI-Driven Tips**: Recommendations based on patterns like running heavy loads during off-peak hours.  
 - **Custom Goals**: Set monthly usage targets and monitor progress.  
 - **Alerts & Notifications**: Simulated warnings for unusual spikes or goal thresholds.  
 - **Virtual Routines**: Simulate routines like “Night Mode” or “Away Mode” for better efficiency.  
