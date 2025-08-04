@@ -1,6 +1,6 @@
 # 🔋 AURA — Smart Home Energy Advisor 
 
-AURA (Automated Utility Resource Advisor) is an intelligent energy assistant that helps users monitor, analyze, and optimize electricity consumption. Built purely on software using IBM Cloud tools, AURA uses simulated usage data and machine learning to deliver real-time insights and personalized energy-saving tips without any physical hardware.
+AURA (Automated Utility Resource Advisor) is an intelligent energy assistant that helps users monitor, analyze, and optimize electricity consumption. Built purely on software using IBM Cloud tools, AURA uses simulated usage data and machine learning to deliver real-time insights and personalized energy-saving tips.
 
 ---
 
